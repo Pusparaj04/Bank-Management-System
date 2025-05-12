@@ -1,6 +1,7 @@
 # Bank-Management-System
 Welcome to the Bank Management System Project! This is a Java-based application which allows you to manage user accounts, and perform the transactions ensuring the security of financial data.
-##Project Structure
+
+## Project Structure
 - 'BankingSystem': Contains the Java source code files (BankingApp, User, Accounts, AccountManager)
   ```shell
   - 'BankingApp.java': This is a driver class.
