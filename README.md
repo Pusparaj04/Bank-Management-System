@@ -6,7 +6,7 @@ Welcome to the Bank Management System Project! This is a Java-based application 
   - 'BankingApp.java': This is a driver class.
   - 'User.java': This handles functionalities like, user registration and login
   - 'Accounts.java': This handles functionalities like, opeaning new account and generating new account numbers for each new user.
-  - ' AccountManager.java': As name suggest, this class handles all transactions ensuring ACID property by using 'commit' and 'rollback' features.
+  - 'AccountManager.java': As name suggest, this class handles all transactions ensuring ACID property by using 'commit' and 'rollback' features.
 **
   ## Key Features
   - User Registration & Login
