@@ -1,3 +1,5 @@
+//***BY PUSPA RAJ KARNA***//
+
 package BankingSystem;
 
 import java.sql.Connection;
@@ -9,8 +11,8 @@ import static java.lang.Class.forName;
 
 public class BankingApp {
     private static final String url = "jdbc:mysql://localhost:3306/banking_system";
-    private static final String username = "UserUser";
-    private  static final String password = "20-07-2005#myDoB";
+    private static final String username = "<Enter your user name>"; //either use root or create any user in your local host and use that user name.
+    private  static final String password = "<Enter password>"; //you'll be setting a password while creating User, same password should be here.
     public static void main(String[] args) {
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
